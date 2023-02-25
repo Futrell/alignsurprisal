@@ -18,5 +18,9 @@ The file rt1000.csv contains 1000 tokens' worth of data from the Dundee corpus, 
 python lm1000.csv token logprob rt1000.csv WORD > aligned.csv
 ```
 
+## Dependencies
 
+`tokenizations`
+`pandas`
+`rfutils`: https://github.com/Futrell/rfutils
 
